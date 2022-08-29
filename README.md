@@ -6,7 +6,7 @@ Curso de Metodos Estadisticos. Semestre Agosto Diciembre 2022
 Semana 1 
 
 + :maple_leaf: 08/08/2022: Clase Inicial, presentacion del curso 
-+ :map1e_leaf: 10/08/2022: Clase en sala de computacion 
++ :maple_leaf: 10/08/2022: Clase en sala de computacion 
 
 
 Semana 2 
