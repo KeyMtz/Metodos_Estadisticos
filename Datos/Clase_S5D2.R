@@ -44,8 +44,8 @@ range(Enc1$Edad)
 
 # ¿Como te enteraste de la facultad?
 conFCC <- table(Enc1$oi_1)
-prop.table((conFCF)*100
-pie(prop.table(conFCF)*100)
+prop.table(conFCC)*100
+pie(prop.table(conFCC)*100)
 
 # ¿Fue tu primera opcion la FCF?
 op <- table(Enc1$oi_2)
@@ -54,3 +54,5 @@ prop.table(op)*100
 # ¿Presentaste en otra facultad?
 of <- table(Enc1$oi_2a)
 prop.table(of)*100
+
+
