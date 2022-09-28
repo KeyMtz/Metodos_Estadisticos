@@ -12,7 +12,7 @@ Semana 1
 Semana 2 
 
 + :evergreen_tree: 15/08/2022: Clase en sala de computo, metodo cientifico
-+ :evergreen_tree: 17/08/2022:
++ :evergreen_tree: 17/08/2022: Elaboracion de encuesta
 
 
 Semana 3 
