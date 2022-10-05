@@ -52,3 +52,6 @@ Semana 8
 
 
 Semana 9
+
++ :maple_leaf: 3/10/2022: Clase autonoma
++ :maple_leaf: 5/10/2022: Clase en sala de computo: Analisis de varianza
