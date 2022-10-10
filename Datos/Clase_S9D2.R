@@ -18,7 +18,7 @@ boxplot(paraje$DAP ~ paraje$Paraje,
         col="purple")
 
 
-# Semana 10 Dia 1 10/10/2021
+# Semana 10 Dia 1 10/10/2022
 #Homogeneidad de varianza barlett.test
 
 bartlett.test(paraje$DAP, paraje$Paraje)
