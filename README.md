@@ -59,3 +59,9 @@ Semana 9
 Semana 10 
 
 + :evergreen_tree: 10/10/2022: Clase en sala de computo Analisis de varianza
++ :evergreen_tree: 12/10/2022: Examen 
+
+Semana 11 
+
++ :maple_leaf: 17/10/2022: Clase autonoma
++ :maple_leaf: 19/10/2022: 
