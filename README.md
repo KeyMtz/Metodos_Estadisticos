@@ -64,4 +64,26 @@ Semana 10
 Semana 11 
 
 + :maple_leaf: 17/10/2022: Clase autonoma
-+ :maple_leaf: 19/10/2022: 
++ :maple_leaf: 19/10/2022: Revision del examen
+
+Semana 12
+
++ :evergreen_tree: 24/19/2022: Clase autonoma
++ :evergreen_tree: 26/10/2022: Examen
+
+Semana 13
+
++ :maple_leaf: 31/10/022: Clase autonoma 
++ :maple_leaf: 2/11/2022: 
+
+Semana 14
+
++ :evergreen_tree: 
++ :evergreen_tree:
+
+Semana 15 
+
+
+
+Semana 16 
++ :evergreen_tree:
