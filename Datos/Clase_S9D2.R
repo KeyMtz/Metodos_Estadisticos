@@ -23,6 +23,7 @@ boxplot(paraje$DAP ~ paraje$Paraje,
 
 bartlett.test(paraje$DAP, paraje$Paraje)
 
+
 #Ho = las varianzas son homogeneas 
 #H1 = las varianzas no son homogeneas 
 

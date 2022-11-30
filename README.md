@@ -73,17 +73,24 @@ Semana 12
 
 Semana 13
 
-+ :maple_leaf: 31/10/022: Clase autonoma 
-+ :maple_leaf: 2/11/2022: 
++ :maple_leaf: 31/10/2022: Clase autonoma 
++ :maple_leaf: 2/11/2022: Clase autonoma
 
 Semana 14
 
-+ :evergreen_tree: 
-+ :evergreen_tree:
++ :evergreen_tree: 07/11/2022: Clase autonoma
++ :evergreen_tree: 09/11/2022: Clase autonoma 
 
 Semana 15 
 
-
++ :maple_leaf: 14/11/2022: Clase autonoma
++ :maple_leaf: 16/11/2022: Clase autonoma
 
 Semana 16 
-+ :evergreen_tree:
++ :evergreen_tree: 21/11/2022: Clase autonoma
++ :evergreen_tree: 23/11/2022: Clase autonoma
+
+Semana 17
++ :maple_leaf: 30/11/2022: Examen Final
+
+
